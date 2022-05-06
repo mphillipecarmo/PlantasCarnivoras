@@ -1,0 +1,21 @@
+table{
+    border-collapse: collapse;
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+th{
+    background-color: rgb(82, 86, 89);
+    color: white;
+    font-size: 20px;
+}
+
+td, th {
+    border: 1px solid black;
+}
+
+.loja-img{
+    background: url('../images/desenho-loucao.jpg');
+    background-size: cover;
+}
